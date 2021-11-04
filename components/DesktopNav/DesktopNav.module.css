@@ -1,0 +1,17 @@
+.container {
+  list-style-type: none;
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  padding-inline-start: 0;
+  margin-block-start: 0;
+
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.link {
+  padding-left: 5rem;
+}

@@ -11,7 +11,33 @@ export default function Home() {
         <title>Dan's Group | Home</title>
       </Head>
       <Header />
-      <Container>COUCOU</Container>
+      <Container>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+        <div>COUCOU</div>
+      </Container>
     </>
   );
 }

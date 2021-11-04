@@ -1,0 +1,17 @@
+.container {
+  /*background-color: red;*/
+  /*color: black;*/
+  /*padding-top: 2%;*/
+  /*padding-bottom: 2%;*/
+}
+
+.link {
+  padding-left: 8%;
+  padding-top: 2%;
+  padding-bottom: 1.5%;
+  font-size: medium;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+/*.separator {
+}*/
