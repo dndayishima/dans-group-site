@@ -5,7 +5,6 @@ import Image from "next/image";
 
 import DesktopNav from "../DesktopNav";
 import MobileNav from "../MobileNav";
-import mobileMenu from "../MobileMenu";
 
 import { colors } from "../../styles/theme";
 import { classNames } from "../../utils/classNames";
@@ -37,7 +36,7 @@ const Header = () => {
     setShowMobileMenu(!showMobileMenu);
   };
   return (
-    <>
+    <div className={styles.main}>
       <header
         className={classNames([
           styles.container,
@@ -63,7 +62,7 @@ const Header = () => {
       >
         <MobileMenu />
       </div>
-    </>
+    </div>
   );
 };
 

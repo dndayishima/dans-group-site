@@ -15,3 +15,15 @@
 .link {
   padding-left: 5rem;
 }
+
+.link:hover {
+  text-decoration: underline;
+  text-underline-offset: 1.8rem;
+  text-decoration-thickness: 5px;
+}
+
+.activeLink {
+  text-decoration: underline;
+  text-underline-offset: 1.8rem;
+  text-decoration-thickness: 5px;
+}

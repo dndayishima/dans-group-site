@@ -1,8 +1,10 @@
-.container {
-  /*overflow: hidden;
+.main {
+  overflow: hidden;
   position: fixed;
-  top: 0;
-  width: 100%;*/
+  width: 100%;
+}
+
+.container {
   height: 5rem;
   display: flex;
   flex-direction: row;
@@ -23,9 +25,6 @@
 .mobileNav {
   display: block;
 }
-
-/*.mobileMenu {
-}*/
 
 .mobileMenuHidden {
   display: none;

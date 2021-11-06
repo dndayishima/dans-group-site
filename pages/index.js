@@ -1,6 +1,7 @@
 import Head from "next/head";
 // import Image from "next/image";
 import Header from "../components/Header";
+import Slider from "../components/Slider";
 import Container from "../components/Container";
 // import styles from "../styles/Home.module.css";
 
@@ -11,32 +12,322 @@ export default function Home() {
         <title>Dan's Group | Home</title>
       </Head>
       <Header />
+      <Slider />
       <Container>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
-        <div>COUCOU</div>
+        <div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+          <div>Custom content Loading...</div>
+        </div>
       </Container>
     </>
   );

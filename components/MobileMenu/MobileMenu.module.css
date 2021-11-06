@@ -1,8 +1,5 @@
 .container {
-  /*background-color: red;*/
-  /*color: black;*/
-  /*padding-top: 2%;*/
-  /*padding-bottom: 2%;*/
+  background-color: white;
 }
 
 .link {
@@ -10,7 +7,7 @@
   padding-top: 2%;
   padding-bottom: 1.5%;
   font-size: medium;
-  font-weight: bold;
+  font-weight: 900;
   text-transform: uppercase;
 }
 /*.separator {
