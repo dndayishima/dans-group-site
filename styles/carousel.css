@@ -1,0 +1,12 @@
+.carousel-status {
+  display: none;
+}
+
+.thumbs-wrapper {
+  display: none;
+}
+
+.control-arrow:hover {
+  opacity: 0.4;
+  background: red;
+}
